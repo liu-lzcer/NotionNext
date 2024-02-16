@@ -41,7 +41,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -107,7 +107,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://t.me/advahead',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/+Gdr-_ecLMjMxMjI1',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
