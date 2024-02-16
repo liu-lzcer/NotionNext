@@ -16,7 +16,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享科技',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'FaeBange.TOP',
+  HEO_HERO_TITLE_3: '\nFaeBange.TOP',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '博主同款网站制作',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
@@ -41,7 +41,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/liu-lzcer', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
