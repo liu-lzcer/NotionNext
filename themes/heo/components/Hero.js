@@ -383,7 +383,7 @@ function TodayCard({ cRef, siteInfo }) {
             isCoverUp ? '' : ' pointer-events-none'
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
-            background: `url('${siteInfo?.pageCover}') no-repeat center /cover`
+            background: `url('https://i2.100024.xyz/2024/02/17/n6qio4.webp') no-repeat center /cover`
           }}
         ></div>
       </div>
