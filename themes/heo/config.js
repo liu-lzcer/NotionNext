@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: '\nFaeBange.TOP',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '博主同款网站制作',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '博主在看',
+  HEO_HERO_TITLE_LINK: 'https://blog.krisyan.dev/blog/how_to_do_great_work',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
