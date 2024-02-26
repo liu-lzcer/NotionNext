@@ -469,7 +469,7 @@ const LayoutTagIndex = props => {
                 >
                   <HashTag className={'w-5 h-5 stroke-gray-500 stroke-2'} />
                   {tag.name}
-                  <div className="bg-[#f1f3f8] ml-1 px-2 rounded-lg group-hover:text-indigo-600 ">
+                  <div className="">
                     {tag.count}
                   </div>
                 </div>
