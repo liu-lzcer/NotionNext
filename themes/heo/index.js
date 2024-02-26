@@ -83,7 +83,7 @@ const LayoutBase = props => {
   return (
     <div
       id="theme-heo"
-      className="bg-[#f7f9fe] dark:bg-[#18171d] h-full min-h-screen flex flex-col"
+      className="https://cloud.faebange.top/file/c75fe133c6109bce2c7ea.png"
     >
 
       <Style />
