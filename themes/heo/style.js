@@ -7,7 +7,7 @@
 const Style = () => {
   return (
     .notion {
-      font-size: 1.5rem;
+      font-size: 2rem;
     }
     <style jsx global>{`
       body {
