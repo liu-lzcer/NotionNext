@@ -6,6 +6,9 @@
  */
 const Style = () => {
   return (
+    .notion {
+      font-size: 1.5rem;
+    }
     <style jsx global>{`
       body {
         background-color: #f7f9fe;
