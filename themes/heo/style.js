@@ -6,10 +6,10 @@
  */
 const Style = () => {
   return (
-    .notion {
-      font-size: 3rem;
-    }
     <style jsx global>{`
+      .notion {
+        font-size: 3rem;
+      }
       body {
         background-color: #f7f9fe;
         overflow-x: hidden;
